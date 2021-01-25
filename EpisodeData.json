@@ -241,5 +241,20 @@
                 "straightUpText": ""
             }
         ]
+    },
+    {
+        "id": "006",
+        "title": "Four Ring February, with Rick Schroeder",
+        "publishDate": "24 January 2021",
+        "description": "Rick Schroeder returns to the show to hear me out about a fitness goal for February 2021.",
+        "listenLink": "https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-006.mp3",
+        "showNotes": [
+            {
+                "isLink": true,
+                "title": "Apple Watch - Close Your Rings",
+                "link": "https://www.apple.com/watch/close-your-rings/",
+                "straightUpText": ""
+            }
+        ]
     }
 ]
