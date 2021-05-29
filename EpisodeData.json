@@ -271,5 +271,26 @@
                 "straightUpText": ""
             }
         ]
+    },
+    {
+        "id": "008",
+        "title": "Walking The Trail",
+        "publishDate": "29 May 2021",
+        "description": "This one's more of a soundscape than a podcast, but you're welcome to come along.",
+        "listenLink": "https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-008.mp3",
+        "showNotes": [
+            {
+                "isLink": true,
+                "title": "Dark Noise on the App Store",
+                "link": "https://apps.apple.com/us/app/dark-noise/id1465439395",
+                "straightUpText": ""
+            },
+            {
+                "isLink": true,
+                "title": "Portal on the App Store",
+                "link": "https://apps.apple.com/us/app/portal-escape-into-nature/id1436994560",
+                "straightUpText": ""
+            }
+        ]
     }
 ]
