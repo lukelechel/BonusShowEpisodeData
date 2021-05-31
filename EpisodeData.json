@@ -292,5 +292,26 @@
                 "straightUpText": ""
             }
         ]
+    },
+    {
+        "id": "009",
+        "title": "WWDC Draft 2021, with Brenden Kilmer",
+        "publishDate": "31 May 2021",
+        "description": "Brenden Kilmer joins the show to play a game predicting what's going to happen at Apple's WWDC event on 7 June 2021.",
+        "listenLink": "https://thebonusshow-resources.s3.us-east-2.amazonaws.com/episode-mp3s/TheBonusShow-009.mp3",
+        "showNotes": [
+            {
+                "isLink": true,
+                "title": "WWDC Draft Scoreboard (.numbers spreadsheet)",
+                "link": "https://thebonusshow-resources.s3.us-east-2.amazonaws.com/show-note-resources/009/The%20Bonus%20Show%20-%20WWDC21%20Draft%20Scoreboard.numbers",
+                "straightUpText": ""
+            },
+            {
+                "isLink": true,
+                "title": "Upgrade Podcast on Relay FM",
+                "link": "https://www.relay.fm/upgrade",
+                "straightUpText": ""
+            }
+        ]
     }
 ]
